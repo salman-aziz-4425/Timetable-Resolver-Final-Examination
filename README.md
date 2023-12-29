@@ -22,5 +22,5 @@ Make sure you have Python and the required libraries installed:
 pip install pandas
 pip install tkinter
 ```
-Demo:
+### Demo
 <img width="797" alt="image" src="https://github.com/salman-aziz-4425/Timetable-resolver/assets/85288719/d836badc-75e5-49b1-b04b-f6f4584d96b1">
